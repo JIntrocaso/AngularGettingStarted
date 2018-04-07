@@ -1,0 +1,13 @@
+#product-image {
+    float: right;
+}
+
+#product-image img {
+    margin: 2px;
+    width: 200px;
+}
+
+#product-info {
+    float: left;
+}
+
